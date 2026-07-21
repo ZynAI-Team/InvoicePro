@@ -189,8 +189,8 @@ Continued use of Invoice Pro after changes become effective constitutes acceptan
 
 ---
 
-# 11. Contact Us - zynailabs@gmail.com
+# 11. Contact Us - 
 
 If you have any questions regarding this Privacy Policy or how your information is handled, please contact us.
 
-**Email:** support@yourdomain.com
+**Email:** zynailabs@gmail.com
