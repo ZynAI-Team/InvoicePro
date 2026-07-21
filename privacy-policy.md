@@ -173,9 +173,9 @@ To exercise these rights, please contact us using the details below.
 
 # 9. Children's Privacy
 
-Invoice Pro is intended for business users and is not designed for children under the age of 13 (or the minimum legal age in your jurisdiction).
+Invoice Pro is intended for adults and business users aged **18 years and older**. It is not designed or marketed for children.
 
-We do not knowingly collect personal information from children.
+We do not knowingly collect personal information from children. If we become aware that personal information has been collected from a child in violation of applicable law, we will take reasonable steps to delete that information promptly.
 
 ---
 
