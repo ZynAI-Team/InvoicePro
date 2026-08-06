@@ -1,6 +1,6 @@
-# Delete Your Invoice Pro Account
+# Delete Your InvoicePro Account
 
-Invoice Pro allows you to permanently delete your account and all associated data directly from within the app.
+InvoicePro allows you to permanently delete your account and all associated data directly from within the app.
 
 ---
 
@@ -8,7 +8,7 @@ Invoice Pro allows you to permanently delete your account and all associated dat
 
 ### Delete from the App
 
-1. Open the **Invoice Pro** app and sign in.
+1. Open the **InvoicePro** app and sign in.
 2. Navigate to **Settings → Account**.
 3. Tap **Delete Account**.
 4. Confirm the deletion when prompted.
@@ -43,7 +43,7 @@ When your account is deleted, the following information is permanently removed:
 
 ## Third-Party Services
 
-Invoice Pro uses **Amazon S3** to store uploaded files.
+InvoicePro uses **Amazon S3** to store uploaded files.
 
 When you delete your account:
 
