@@ -1,4 +1,4 @@
-# Privacy Policy for Invoice Pro
+# Privacy Policy for InvoicePro
 
 **Last Updated:** July 2026
 
@@ -6,9 +6,9 @@
 
 ## 1. Introduction
 
-This Privacy Policy explains how **Invoice Pro** ("we", "our", or "the app") collects, uses, stores, and protects your information when you use our mobile application and related services.
+This Privacy Policy explains how **InvoicePro** ("we", "our", or "the app") collects, uses, stores, and protects your information when you use our mobile application and related services.
 
-By using Invoice Pro, you agree to the collection and use of your information as described in this Privacy Policy.
+By using InvoicePro, you agree to the collection and use of your information as described in this Privacy Policy.
 
 ---
 
@@ -105,7 +105,7 @@ We do not share your business, client, or invoice data with third parties for ad
 
 # 4. Information Sharing
 
-We only share information with trusted service providers necessary to operate Invoice Pro.
+We only share information with trusted service providers necessary to operate InvoicePro.
 
 | Service Provider | Purpose | Data Shared |
 |------------------|----------|------------|
@@ -114,7 +114,7 @@ We only share information with trusted service providers necessary to operate In
 | Google Gemini API | AI Invoice Parsing | Text and documents submitted for parsing |
 | Email/SMTP Provider | Sending invoices and notifications | Recipient email address and invoice content |
 
-We may also disclose information when required by law or when necessary to protect the rights, safety, and security of Invoice Pro, our users, or the public.
+We may also disclose information when required by law or when necessary to protect the rights, safety, and security of InvoicePro, our users, or the public.
 
 ---
 
@@ -173,7 +173,7 @@ To exercise these rights, please contact us using the details below.
 
 # 9. Children's Privacy
 
-Invoice Pro is intended for adults and business users aged **18 years and older**. It is not designed or marketed for children.
+InvoicePro is intended for adults and business users aged **18 years and older**. It is not designed or marketed for children.
 
 We do not knowingly collect personal information from children. If we become aware that personal information has been collected from a child in violation of applicable law, we will take reasonable steps to delete that information promptly.
 
@@ -185,7 +185,7 @@ We may update this Privacy Policy from time to time.
 
 Any changes will be published on this page with an updated **Last Updated** date.
 
-Continued use of Invoice Pro after changes become effective constitutes acceptance of the revised Privacy Policy.
+Continued use of InvoicePro after changes become effective constitutes acceptance of the revised Privacy Policy.
 
 ---
 
